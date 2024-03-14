@@ -1,0 +1,44 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.Background {
+    background-color: rgba(0, 0, 0, 0.256);
+}
+
+.Immaginelogo {
+    width: 200px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Container {
+    width: 1000px;
+    margin:auto;
+}
+
+h1 {
+    color:greenyellow;
+    font-size: 30px;
+    text-align: center;
+}
+
+nav {
+    background-color: greenyellow;
+    text-align: center;
+    border: 10px solid greenyellow;
+}
+
+div {
+    color: white;
+}
+
+.Testo {
+    display: inline-block;
+}
